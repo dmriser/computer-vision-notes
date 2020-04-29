@@ -14,7 +14,7 @@ In addition to loading an image `tensorflow.keras.preprocessing.image.load_image
 Some notable CNN configurations and interesting layers.
 
 ### AlexNet
-Winner of the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012.  Created by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton.  The full architecture is described in (https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)[their paper].
+Winner of the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012.  Created by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton.  The full architecture is described in https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf.
 
 - After their crushing victory in 2012 almost all ILSVRC submissions have used deep convolutional neural networks.
 - Achieved 15.3% top-5 error rate
